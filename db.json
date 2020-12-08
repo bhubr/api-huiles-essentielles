@@ -1,0 +1,14 @@
+{
+  "huiles-essentielles": [
+    {
+      "id": 1,
+      "nom": "thym à thymol",
+      "image": "https://panacea-pharma.com/wp-content/uploads/2019/12/Thymus-vulgaris.jpg"
+    },
+    {
+      "id": 2,
+      "nom": "lavande officinale",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61BsHbaRboL._AC_SY450_.jpg"
+    }
+  ]
+}
