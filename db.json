@@ -15,5 +15,12 @@
       "nom": "menthe poivrée",
       "image": "https://www.fermedelours.fr/wp-content/uploads/2019/11/menthe-poivree_01.jpg"
     }
+  ],
+  "encens": [
+    {
+      "id": 1,
+      "nom": "encens au cèdre",
+      "image": "https://www.esteban.fr/1662-zoom_default/encens-indiens.jpg"
+    }
   ]
 }
