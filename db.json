@@ -9,6 +9,11 @@
       "id": 2,
       "nom": "lavande officinale",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61BsHbaRboL._AC_SY450_.jpg"
+    },
+    {
+      "id": 3,
+      "nom": "menthe poivrée",
+      "image": "https://www.fermedelours.fr/wp-content/uploads/2019/11/menthe-poivree_01.jpg"
     }
   ]
 }
